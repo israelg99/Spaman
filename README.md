@@ -1,7 +1,7 @@
 Spaman
 ======
 
-Spaman, is a Spammer created in Java.
+Spaman, it's a spammer created in Java.
 <br />
 <br />
 <b>How to use :</b><br />
